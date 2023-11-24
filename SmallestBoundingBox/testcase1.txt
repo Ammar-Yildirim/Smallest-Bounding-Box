@@ -1,0 +1,3 @@
+Start = isPerfect 6 == True && isPerfect 496 == True && isPerfect 1 == False && isPerfect 2 == False && isPerfect 46 == False
+
+Start = perfectNumbers 10000 == "8128 496 28 6 " ||  perfectNumbers 10000 == "8128 496 28 6"
